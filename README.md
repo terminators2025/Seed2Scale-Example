@@ -19,7 +19,17 @@ Seed2Scale-Example
     └── seed2scale_example_replay.py
 ```
 
-# Data Structure
+# Quick Start
 ```bash
 isaacsim/python.sh seed2scale_example_replay.py
 ```
+```bash
+==================================================
+REPLAY CONTROLS:
+S : Play / Pause
+R : Reset current rollout
+N : Load a random rollout from folder
+==================================================
+```
+
+# Process Visualization
