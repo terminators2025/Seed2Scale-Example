@@ -13,8 +13,13 @@ Seed2Scale-Example
 │   │   └── AgiBotA2(USD)
 │   └── scenes
 │       └── Task1_Kitchen_Cleanup
-├── Seed2scale-Example-Data
+├── example-data
 │   └── zte-terminators/seed2scale-example-data
-└── Python-Script
+└── python-script
     └── seed2scale_example_replay.py
+```
+
+# Data Structure
+```bash
+isaacsim/python.sh seed2scale_example_replay.py
 ```
