@@ -33,6 +33,7 @@ N : Load a random rollout from folder
 ```
 
 # Process Visualization
+
 <div align="center">
-  <img src="example_opt.gif" alt="Demo" width="95%">
+  <img src="./example_opt.gif" alt="Demo" width="95%">
 </div>
