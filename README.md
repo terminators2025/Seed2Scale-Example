@@ -20,9 +20,14 @@ Seed2Scale-Example
 ```
 
 # Quick Start
-modify path
+**modify path**
+```bash
+HDF5_ROLLOUT_FOLDER = "/yourpath/gpu_0/temp_hdf5_rollouts"
+A2_USD_PATH        = "/yourpath/assets/robot/AgiBotA2/model_no_col2.usd"
+SCENE_USD_PATH     = "/yourpath/Collected_kitchen/kitchen.usd"
+```
 
-
+**startup command**
 ```bash
 isaacsim/python.sh seed2scale_example_replay.py
 ```
