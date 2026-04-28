@@ -20,6 +20,9 @@ Seed2Scale-Example
 ```
 
 # Quick Start
+modify path
+
+
 ```bash
 isaacsim/python.sh seed2scale_example_replay.py
 ```
