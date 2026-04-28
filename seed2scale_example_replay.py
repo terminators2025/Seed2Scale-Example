@@ -22,9 +22,9 @@ from typing import List, Optional
 # ==============================================================================
 # Path Configuration
 # ==============================================================================
-HDF5_ROLLOUT_FOLDER = "/mnt/data/longhaixu/codebase/autogen/app/runs/gen/4gpus/20260419_113651_datagen/gpu_0/temp_hdf5_rollouts"
-A2_USD_PATH        = "/mnt/data/share/RealMirror_asset/assets/robot/AgiBotA2/model_no_col2.usd"
-SCENE_USD_PATH     = "/mnt/data/taicong/data_tongji/Collected_kitchen/kitchen.usd"
+HDF5_ROLLOUT_FOLDER = "/yourpath/gpu_0/temp_hdf5_rollouts"
+A2_USD_PATH        = "/yourpath/assets/robot/AgiBotA2/model_no_col2.usd"
+SCENE_USD_PATH     = "/yourpath/Collected_kitchen/kitchen.usd"
 
 # Prim paths in the stage
 A2_PRIM_PATH    = "/World/A2"
