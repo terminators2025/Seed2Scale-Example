@@ -34,5 +34,6 @@ N : Load a random rollout from folder
 
 # Process Visualization
 
+The GIF is large. If it is not displayed, please wait a moment
 <p align="center">
   <img src="./example_opt.gif" alt="Demo" width="95%" />
