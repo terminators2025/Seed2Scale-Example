@@ -6,6 +6,7 @@ Demonstration of the end-to-end trajectory generation results for Seed2Scale, in
  - [x] Asset：[Huggingface zte-terminators/seed2scale-example-assets](https://huggingface.co/datasets/zte-terminators/seed2scale-example-assets)
 
 # Data Structure
+```
 Seed2Scale-Example
 ├── assets
 │   ├── robot
@@ -16,3 +17,4 @@ Seed2Scale-Example
 │   └── zte-terminators/seed2scale-example-data
 └── Python-Script
     └── seed2scale_example_replay.py
+```
