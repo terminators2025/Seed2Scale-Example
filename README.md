@@ -1,2 +1,18 @@
 # Seed2Scale-Example
 Demonstration of the end-to-end trajectory generation results for Seed2Scale, including the robot and scene model assets based on RealMirror Task1_Kitchen_Cleanup, physics replay scripts, and complete trajectories.
+
+# Example Data & Asset
+ - [x] Example Data：[Huggingface zte-terminators/seed2scale-example-data](https://huggingface.co/datasets/zte-terminators/seed2scale-example-data)
+ - [x] Asset：[Huggingface zte-terminators/seed2scale-example-assets](https://huggingface.co/datasets/zte-terminators/seed2scale-example-assets)
+
+# Data Structure
+Seed2Scale-Example
+├── assets
+│   ├── robot
+│   │   └── AgiBotA2(USD)
+│   └── scenes
+│       └── Task1_Kitchen_Cleanup
+├── Seed2scale-Example-Data
+│   └── zte-terminators/seed2scale-example-data
+└── Python-Script
+    └── seed2scale_example_replay.py
